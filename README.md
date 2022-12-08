@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cagataysunal
-- 👀 I’m interested in Mobile Development and System Languages
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m @cagataysunal, an Electronics Engineer currently employed as a computer programmer.
+- 👀 I’m interested in Mobile Development and System Languages and all things computer.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Open Source Projects for Android
 - 📫 You can reach me through my e-mail address: cagataysunal9199@gmail.com
 

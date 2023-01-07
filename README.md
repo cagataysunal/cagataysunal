@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cagataysunal, an Electronics Engineer currently employed as a computer programmer.
+- 👋 Hi, I’m @cagataysunal, an Electronics Engineer currently working as a computer programmer.
 - 👀 I’m interested in Mobile Development and System Languages and all things computer.
 - 🌱 I’m currently learning and developing projects in Flutter.
 - 💞️ I’m looking to collaborate on Open Source Projects for Android

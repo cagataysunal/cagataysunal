@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @cagataysunal, an Electronics Engineer currently working as a computer programmer.
-- 👀 I’m interested in Mobile Development and System Languages and all things computer.
-- 🌱 I’m currently learning and developing projects in Flutter.
-- 💞️ I’m looking to collaborate on Open Source Projects for Android
-- 📫 You can reach me through my e-mail address: cagatay.sunal@boer.com.tr
+# Who am I?
+Hi! I am Çağatay, a Flutter Developer programming since 2017 and working professionally since 2022.
 
-<!---
-cagataysunal/cagataysunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Skillset
+- Programming
+  - Flutter & Dart
+  - Python
+  - Java
+
+- Tools
+  - Git
+  - Vim
+
+## I am currently learning...
+- Front End Web Development

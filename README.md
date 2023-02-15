@@ -10,7 +10,6 @@ Hi! I am Çağatay, a Flutter Developer programming since 2017 and working profe
 - Tools
   - Git
   - Vim
-  - VSCode
 
 ## I am currently learning...
 - Front End Web Development

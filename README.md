@@ -12,4 +12,4 @@ Hi! I am Çağatay, a Flutter Developer programming since 2017 and working profe
   - Vim
 
 ## I am currently learning...
-- Front End Web Development
+- Full Stack Web Development w/ The Odin Project

@@ -11,3 +11,6 @@ Hi! I am Çağatay, a Flutter Developer programming since 2017 and working profe
   - Java
   - HTML & CSS
   - Javascript
+
+### Currently learning:
+ - Ruby (on Rails)

@@ -10,7 +10,7 @@ I'm a new Software Developer with about a year of experience in the field, and p
 - ⚡ Fun fact: I procrastinate by constantly changing my font on my code editor.
 
 ## Skills and Experience
-* 💻 Python | Dart | Kotlin | JavaScript | Ruby
+* 💻 Python | Dart | Kotlin | JavaScript | Ruby | Docker
 * 🛢 MSSQL | SQLite
 * 🌐 Flutter
 

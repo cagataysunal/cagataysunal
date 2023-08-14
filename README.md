@@ -1,24 +1,19 @@
-# Hi there, I'm Çağatay 👋
+# About Me
+<div id="badges">
+  <a href="https://www.linkedin.com/in/cagataysunal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-I'm a new Software Developer with about a year of experience in the field, and passionate about Mobile and Web Development. I am proficient in Python and Mobile Development and aspiring to expand my skills as much as I can.
 
-<!-- - 🔭 I’m currently working on [Current Project] -->
-- 🌱 I’m currently learning Ruby
-- 👯 I’m looking to collaborate on Flutter or on web projects.
-- 💬 Ask me about Python, Flutter and any kind of obscure facts that no one has to know.
-- 📫 How to reach me: My LinkedIn (see below) or preferably my email: cagataysunal9199@gmail.com
-- ⚡ Fun fact: I procrastinate by constantly changing my font on my code editor.
+Hi there, I'm Çağatay. I work as a junior mobile developer at Boer Bilişim A.Ş. and I create software solutions for Android based hand-held terminals.
 
-## Skills and Experience
-* 💻 Python | Dart | Kotlin | JavaScript | Ruby | Docker
-* 🛢 MSSQL | SQLite
-* 🌐 Flutter
+I am proficient in Python and Flutter and I have experience with a wide array of technologies, programming languages and frameworks including ASP.NET, Docker, JavaScript, Ruby, Kotlin, Java.
 
-## Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=cagataysunal&show_icons=true&hide_border=true)
+You can reach out to me via [E-Mail](cagataysunal9199@gmail.com) or [LinkedIn](https://www.linkedin.com/in/cagataysunal/).
 
-Connect with me:
+Happy coding!
 
-[![Linkedin: cagataysunal](https://img.shields.io/badge/-cagataysunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cagataysunal/)](https://www.linkedin.com/in/cagataysunal/)
-[![GitHub cagataysunal](https://img.shields.io/github/followers/cagataysunal?label=follow&style=social)](https://github.com/cagataysunal)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cagataysunal&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cagataysunal&theme=blue-green)

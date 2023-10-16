@@ -6,9 +6,9 @@
 </div>
 
 
-Hi there, I'm Çağatay. I work as a junior mobile developer at Boer Bilişim A.Ş. and I create software solutions for Android based hand-held terminals.
+Hi there, I'm Çağatay. I work as a software developer at Boer Bilişim A.Ş.
 
-I am proficient in Python and Flutter and I have experience with a wide array of technologies, programming languages and frameworks including ASP.NET, Docker, JavaScript, Ruby, Kotlin, Java.
+I am proficient in Flutter and .NET and I have experience with a wide array of technologies, programming languages and frameworks.
 
 You can reach out to me via [E-Mail](cagataysunal9199@gmail.com) or [LinkedIn](https://www.linkedin.com/in/cagataysunal/).
 

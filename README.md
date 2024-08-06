@@ -8,9 +8,9 @@
 
 Hi there, I'm Çağatay. I work as a back-end developer at Boer Bilişim A.Ş.
 
-I have do cross-platform and native mobile app development and web services.
+I do cross-platform, Android and web development.
 
-You can reach out to me via [E-Mail](cagataysunal9199@gmail.com).
+You can reach out to me via e-mail (cagataysunal9199@gmail.com).
 
 Happy coding!
 

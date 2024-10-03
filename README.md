@@ -6,11 +6,11 @@
 </div>
 
 
-Hi there, I'm Çağatay. I work as a back-end developer at Boer Bilişim A.Ş.
+Hi there, I'm Çağatay. I am a software engineer.
 
-I do cross-platform, Android and web development.
+I do Full-Stack development.
 
-You can reach out to me via e-mail (cagataysunal9199@gmail.com).
+You can reach out to me via e-mail (sunal.cagatay@gmail.com).
 
 Happy coding!
 

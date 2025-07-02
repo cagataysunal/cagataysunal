@@ -27,7 +27,6 @@ I'm a passionate Software Engineer specializing in **Android**, **Flutter**, and
 ## 📈 GitHub Stats
 
 ![Çağatay's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagataysunal&show_icons=true&theme=radical)
-![GitHub Streaks](https://streak-stats.demolab.com/?user=cagataysunal)
 
 ---
 

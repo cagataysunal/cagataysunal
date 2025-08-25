@@ -20,7 +20,7 @@ I'm a passionate Software Engineer specializing in **Android**, **Flutter**, and
 
 ## 📂 Projects
 
-> _Check out my projects on my [GitHub profile](https://github.com/cagataysunal?tab=repositories)!_
+> _Check out my projects on my [GitHub repositories](https://github.com/cagataysunal?tab=repositories)!_
 
 ---
 
